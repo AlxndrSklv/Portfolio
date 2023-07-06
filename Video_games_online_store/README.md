@@ -39,6 +39,11 @@ Rating — рейтинг от организации ESRB (англ. Entertainm
 
 *Python, Pandas, Matplotlib, NumPy, Scikit-learn исследовательский анализ данных*
 
+- import pandas as pd
+- import matplotlib.pyplot as plt
+- from scipy import stats as st
+- import numpy as np
+
 ## Общий вывод
 
 Определены самые популярные платформы и жанры игр в разрезе регионов. Проведена проверка гипотез. Установлено влияние рейтинга ESRB на продажи. 
