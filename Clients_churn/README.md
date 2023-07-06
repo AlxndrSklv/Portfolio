@@ -1,4 +1,4 @@
-# Прогноз оттока клиентов в компании «Ниединогоразрыва.ком»
+# Прогноз оттока клиентов в компании «Ниединогоразрыва.ком»[1. Прогноз оттока клиентов в компании](https://github.com/AlxndrSklv/Yandex-Practicum/blob/0e52fbb884d1a0fd5a0cd16b2d01fbf4aaff710e/Clients_churn/Clients_churn.ipynb)
 
 ## Описание проекта
 
