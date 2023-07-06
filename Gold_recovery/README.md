@@ -21,6 +21,20 @@ gold_industry_full.csv — исходные данные.
 
 *Python, Pandas, Matplotlib, NumPy, Scikit-learn исследовательский анализ данных*
 
+- import pandas as pd
+- from sklearn.metrics import mean_absolute_error
+- import matplotlib.pyplot as plt
+- import numpy as np
+- from sklearn.model_selection import train_test_split
+- from sklearn.linear_model import LinearRegression
+- from sklearn.tree import DecisionTreeRegressor
+- from sklearn.ensemble import RandomForestRegressor
+- from sklearn.model_selection import cross_val_score
+- from sklearn.dummy import DummyRegressor
+- from sklearn.metrics import make_scorer
+- from sklearn.model_selection import GridSearchCV
+- from sklearn.metrics import mean_squared_error
+
 ## Общий вывод
 
 Для обучения модели использовали три алгоритма: линейная регрессия, дерево решений и случайный лес. Лучший результат показал алгоритм случайный лес, у которого самый низкий показатель на тестовой выборке sMAPE (9.09) при глубине и количестве деревьев равным 10. Предлагаю использовать данную модель в качестве прототипа ML.
