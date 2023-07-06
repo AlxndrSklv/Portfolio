@@ -1,4 +1,4 @@
-# [Интернет-магазин компьютерныъ игр](https://github.com/AlxndrSklv/Yandex-Practicum/blob/f94ed73b5eab34fb7c99206046f96851e7fa6cb0/Video_games_online_store/Video_games_online_store.ipynb)
+# [Интернет-магазин компьютерных игр](https://github.com/AlxndrSklv/Yandex-Practicum/blob/f94ed73b5eab34fb7c99206046f96851e7fa6cb0/Video_games_online_store/Video_games_online_store.ipynb)
 
 ## Описание проекта
 
