@@ -22,28 +22,28 @@ phone.csv — информация об услугах телефонии.
 
 
 - import pandas as pd
-import numpy as np
-import seaborn as sns
-import phik
+- import numpy as np
+- import seaborn as sns
+- import phik
 
-from phik.report import plot_correlation_matrix
-from phik import report
-import datetime
-from datetime import timedelta
-import matplotlib.pyplot as plt
+- from phik.report import plot_correlation_matrix
+- from phik import report
+- import datetime
+- from datetime import timedelta
+- import matplotlib.pyplot as plt
 
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-from sklearn.utils import shuffle
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import GridSearchCV
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.ensemble import GradientBoostingClassifier
-from sklearn.metrics import roc_auc_score, classification_report, roc_curve
-from sklearn.dummy import DummyClassifier
-from sklearn.metrics import f1_score, confusion_matrix, make_scorer
-from collections import Counter
-from imblearn.over_sampling import RandomOverSampler
+- from sklearn.model_selection import train_test_split
+- from sklearn.preprocessing import StandardScaler
+- from sklearn.utils import shuffle
+- from sklearn.linear_model import LogisticRegression
+- from sklearn.model_selection import GridSearchCV
+- from sklearn.ensemble import RandomForestClassifier
+- from sklearn.ensemble import GradientBoostingClassifier
+- from sklearn.metrics import roc_auc_score, classification_report, roc_curve
+- from sklearn.dummy import DummyClassifier
+- from sklearn.metrics import f1_score, confusion_matrix, make_scorer
+- from collections import Counter
+- from imblearn.over_sampling import RandomOverSampler
 
 ## Общий вывод
 
