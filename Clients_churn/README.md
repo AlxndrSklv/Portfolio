@@ -22,15 +22,4 @@ phone.csv — информация об услугах телефонии.
 
 ## Общий вывод
 
-Лучший результат roc-auc = 0.88 и F1 = 0.66 на тестовой выборке показала модель GradientBoostingClassifier с гиперпараметрами:
-
-learning_rate - 0.05,
-
-max_depth - 7,
-
-max_features - 1.0,
-
-min_samples_leaf - 5,
-
-n_estimators - 35.
-
+Лучший результат roc-auc = 0.88 и F1 = 0.66 на тестовой выборке показала модель GradientBoostingClassifier.
